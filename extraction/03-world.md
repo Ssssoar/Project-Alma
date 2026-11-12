@@ -88,21 +88,21 @@ Promises are not quite the same thing as expectations, metaphysically speaking.
 
 Expectations are what activates and makes the background magical energy of the world flow. Promises are what gives that magical energy an anchor. To create the magical feedback loop, both are needed.
 
-A promise made without anyone expecting it's fulfillment does not grant any power. An expectation being created without an explicit promise made makes magic move, but does not create a feedback loop that empowers anyone. This last case is noteworthy, since it contributes to the flowing magic in the world that manifests by itself. Therefore, phenomena like the saints or spontaneous naturally occurring magic is a result of all sorts of unpromised expectations flowing throught the world.
+A promise, oath, or quest made without anyone expecting it's fulfillment does not grant any power. An expectation being created without an explicit promise made makes magic move, but does not create a feedback loop that empowers anyone. This last case is noteworthy, since it contributes to the flowing magic in the world that manifests by itself. Therefore, phenomena like the saints or spontaneous naturally occurring magic is a result of all sorts of unpromised expectations flowing throught the world.
 
-The fulfillment of a promise similarly also has two parts: the expectation may or may not be fulfilled, but the promise may or may not be fulfilled. These are two independent states.
+The fulfillment of a promise similarly also has two parts: the expectation may or may not be met, and the promise may or may not be fulfilled. These are two independent states.
 
-The fulfillment of the promise depends on the person who made that promise, and whether they can sincerely believe they have done their duty. The expectations depend on the people who hitched their hopes on that promise. When both parts agree it's been succesful, the energy is safely released.
+The fulfillment of the promise depends on the person who made that promise (the anchor), and whether they can sincerely believe they have done their duty. The expectations being met depend on the people who hitched their hopes on that promise. When both parts happen, the energy is safely released.
 
-When both parts agree it's been failed, the energy is chaotically releasesd onto the environment.
+A promise unfulfilled with unmet expectations causes the magical energy to be chaotically releasesd onto the environment. This is the most common case.
 
-When the people's expectations fail but the person who promised believes they've fulfilled their oath, the magical power forces itself on the anchor. This causes devastating effect on the anchor themselves, usually causing death or horrible transformations.
+When the people's expectations are unmet but the anchor believes they've fulfilled their oath, the magical power forces itself onto them. This causes devastating effect on the anchor, usually causing death or horrible transformations.
 
-When the people have their expectations fulfilled but the anchor still believes their duty to be underway, the anchor loses power granted to them since the people don't make the power flow anymore. If the anchor continues in their quest they risk having their own lifeforce sapped by their own insistence, similar to osmosis.
+When the people have their expectations fulfilled but the anchor still believes their quest to be underway, the anchor loses power granted to them since the people don't make the power flow anymore. If the anchor continues in their quest they risk having their own lifeforce sapped by their own insistence, similar to osmosis.
 
 ### The crystals
 
-It is well known by scholars: The ammount of magical energy moved by the world's normal operation should cause an ammount of magical phenomena so much higher than naturally manifests, that chaos and destruction should ensue. The reason it does not is also known:
+It is well known by scholars: The ammount of magical energy moved by the world's normal operation should cause an ammount of magical phenomena so much higher than what naturally manifests that chaos and destruction should ensue. The reason it does not is also known:
 
 There are seven crystals which act as stabilizing forces in the world. When magical force would be released, the crystal absorbs a part of it. The crystal grows, and the physical phenomena manifested becomes lesser than it would have otherwise been.
 
@@ -131,6 +131,10 @@ The loss or destruction of a crystal removes one of the world's stabilizing forc
 Without that crystal, the corresponding kind of magical energy no longer has its usual means of being safely absorbed and used. This can lead to an imbalance in the world.
 
 The consequences need not be limited to straightforward elemental disasters. Since the energy involved is tied to expectations and desires, its uncontrolled manifestation can also produce emotional and psychological phenomena.
+
+The complete loss of a crystal has never happened in the new save, but it is part of what accelerated the corruption of the old one.
+
+Not all crystals in the old save were destroyed, so some of them wind up existing twice throughout the story.
 
 ---
 
@@ -211,13 +215,15 @@ Sometimes ghosts will take the appearance of a deceased person, though just as f
 
 One of the few things that is well known and understood about them though, is that they are *not* souls of the departed people who they look like. Extensive studies of souls and what happens to them upon death completely discard that possibility.
 
-### Things no one in the world knows about ghosts at the beginning of the story
+### Unknown (to the world's inhabitants) facts about ghosts.
 
 Ghosts are a kind of emotional-pressure release for the world. On a metaphysical level, ghosts appear and react when the land is overtaken by particularly unifying emotions.
 
-Though emotions and longings are strongly tied to magic, they are not synonimous with it. This leads to ghosts being almost entirely non-magical entities. The people of the world's conception of magic is as naturally occurring as a result of emotion.
+Though emotions and longings are strongly tied to magic due to how expectations work, they are not synonimous with it. This leads to ghosts being almost entirely non-magical entities. 
 
-This makes it difficult for any formally educated magic scholar to understand how ghosts are linked to emotion: They know for a fact they are not magic, so they tend to assume they can't be emotional.
+The people of the world's conception of magic is that it naturally occurs as a result of strong unifying emotion. This is incorrect, but close enough to model the magic system and work within it.
+
+This makes it difficult for any formally educated magic scholar to understand how ghosts are linked to emotion: They know for a fact ghosts are non-magical, so they tend to assume they can't be emotional.
 
 The world before the events of the story, with all it's people with their myriad objectives and emotions, all pulling in all sorts of directions is what makes ghosts non-reactive and rare. When the portals to the old world begin opening and the people and creatures from it, corrupted and unified in grief and longing begin coming in, ghosts begin getting more and more active and troublesome; an unprecedented circumstance in the world.
 
