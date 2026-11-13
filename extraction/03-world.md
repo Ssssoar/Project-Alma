@@ -154,7 +154,7 @@ Saints respond to prayer from people, though this is far more transactional than
 
 Some saints have specific shrines and prayers, some saints are just kept in mind. The ways to "pray" are as diverse and varied as the saints themselves.
 
-All saints however have a particular rhyme, which is how people associate their names to their domain. "Santa Elmeda, la que te muestra lo que te queda" for the Saint of Lost causes, "San Expedito, el que hace las cosas rapidito" for the Saint of Urgent causes.
+All saints however have a particular rhyme, which is how people associate their names to their domain. "Santa Elmeda, la que te muestra lo que te queda" for the Saint of Lost causes, "San Expedito, el que hace las cosas rapidito" for the Saint of Urgent causes, "Si tu caballo está enfermo, le rezas a San Elmo" for the Saint of Working Animals, and so on.
 
 Since not all of them have a physical form, it can be hard for normal folk to sometimes determine if something has been the work of saint.
 
