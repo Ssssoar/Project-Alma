@@ -15,9 +15,9 @@ The old save has been "abandoned" for a long time. This means that it's player n
 
 ---
 
-## The old world
+## The old world/old save
 
-The corrupted world is:
+The world of the old save is:
 
 - barren
 - decaying
@@ -25,7 +25,7 @@ The corrupted world is:
 - populated by damaged alternate versions of the new-save cast
 - still shaped by the story that happened there
 
-The old world is not simply "evil". Its defining quality is unfinished attachment.
+The old save is not simply "evil". Its defining quality is unfinished attachment.
 
 ---
 
